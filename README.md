@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **cross-platform mobile apps using Flutter**
 - 🌱 I’m currently diving deeper into **state management & animations**
 - 💬 Ask me about **Flutter, Dart, Firebase, iOS, Android**
-- 📫 How to reach me: **harryhaejun@example.com** <!-- 수정 필요 -->
+- 📫 How to reach me: **haejuni78@gmail.com** <!-- 수정 필요 -->
 - ⚡ Fun fact: I love crafting pixel-perfect UIs and automating the boring stuff!
 
 ---
