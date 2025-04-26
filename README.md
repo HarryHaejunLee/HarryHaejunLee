@@ -1,5 +1,5 @@
-<h1 align="center">Hello, World! 👋 I'm HarryHaejunLee</h1>
-<h3 align="center">A passionate Flutter developer who loves turning ideas into pixel-perfect mobile apps ✨</h3>
+<h1 align="center">Hi 👋, I'm HarryHaejunLee — a Flutter Developer building polished mobile experiences</h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
