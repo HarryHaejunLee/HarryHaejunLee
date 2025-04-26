@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **HarryHaejunLee/HarryHaejunLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
